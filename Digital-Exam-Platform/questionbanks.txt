@@ -1,0 +1,207 @@
+The computer can do such a wide variety of tasks because:
+*a.	It can be programmed
+b.	It is a machine
+c.	It contains a central processing unit (CPU)
+d.	It has the ability to connect to the Internet
+Computer programming is:
+a.	An art
+b.	A science
+*c.	Both of the above
+d.	Neither of the above
+Another term for programs is:
+a.	Hardware
+*b.	Software
+c.	Firmware
+d.	Shareware
+_________ refers to the physical components that a computer is made of.
+a.	Device
+b.	System
+*c.	Hardware
+d.	Software
+A program is a sequence of instructions stored in:
+a.	The CPU
+*b.	The computer's memory
+c.	Software
+d.	Firmware
+A byte is a collection of:
+a.	Four bits
+b.	Six bits
+*c.	Eight bits
+d.	A dollar
+An operating system can be categorized according to:
+a.	The number of users they can accommodate
+b.	The number of tasks they can perform at one time
+*c.	Both of the above
+d.	Neither of the above
+This is a special language used to write computer programs.
+*a.	Programming language
+b.	Operating system
+c.	Application
+d.	Pseudocode
+The original name for Java was
+a.	Java
+b.	HotJava
+c.	Elm
+*d.	Oak
+Syntax is:
+a.	Words that have a special meaning in the programming language
+*b.	Rules that must be followed when writing a program
+c.	Punctuation
+d.	Symbols or words that perform operations
+Byte code instructions are:
+a.	Another name for source code
+b.	Syntax errors
+c.	Machine code instructions
+*d.	Read and interpreted by the JVM
+A runtime error is usually the result of:
+*a.	A logical error
+b.	A syntax error
+c.	A compilation error
+d.	Bad data
+This is a software entity that contains data and procedures.
+a.	Method
+*b.	Object
+c.	Class
+d.	Program
+Software refers to:
+a.	Secondary storage.
+b.	Firmware
+*c.	Programs
+d.	Applets
+RAM is usually:
+a.	A static type of memory, used for permanent storage
+*b.	A volatile type of memory, used only for temporary storage
+c.	Secondary storage
+d.	An input/output device
+Application software refers to:
+a.	The operating system
+b.	Pseudocode
+c.	Key words
+*d.	The programs that make the computer useful to the user
+Java was developed by
+a.	Microsoft.
+b.	IBM
+*c.	Sun Microsystems
+d.	Hewlett-Packard
+Key words are:
+a.	The data names in your program
+*b.	Words that have a special meaning in the programming language
+c.	Symbols or words that perform operations on one or more operands
+d.	Words or names defined by the programmer
+These are used to indicate the end of a Java statement.
+*a.	Semicolons
+b.	Colons
+c.	Periods
+d.	Asterisks
+Which of the following will compile a program called ReadIt?
+a.	java ReadIt.java
+b.	java ReadIt.javac
+*c.	javac ReadIt.java
+d.	javac ReadIt.javac
+Which of the following will run the compiled program ReadIt?
+a.	java ReadIt.java
+*b.	java ReadIt
+c.	run ReadIt
+d.	go ReadIt
+Which of the following is not part of the programming process?
+a.	Design
+b.	Testing
+c.	Debugging
+*d.	All the above are parts of the programming process
+This is a cross between human language and a programming language.
+*a.	Pseudocode
+b.	Java
+c.	The Java Virtual Machine
+d.	The compiler
+The data contained in an object is known as:
+a.	Methods
+*b.	Attributes
+c.	Classes
+d.	Atriums
+In Java, the beginning of a comment is marked with: 
+*a.	//
+b.	""
+c.	;
+d.	#
+In Java, ___________ must be declared before they can be used.
+*a.	Variables
+b.	Literals
+c.	Key words
+d.	Comments
+This is a boolean variable that signals when some condition exists in the program
+a.	Sentinel
+b.	Block
+*c.	Flag
+d.	Case
+When the + operator is used with strings, it is known as the:
+a.	Assignment operator
+*b.	String concatenation operator
+c.	Addition operator
+d.	Combined assignment operator
+Which of the following cannot be used as identifiers in Java?
+a.	Variable names
+b.	Class names
+*c.	Key words
+d.	All of the above
+Which of the following is not a primitive data type?
+a.	short
+b.	long
+c.	float
+*d.	String
+Which of the following is not a valid comment statement?
+a.	// comment 1
+b.	/* comment 2 */
+*c.	*/ comment 3 /*
+d.	/** comment 4 */
+If x has been declared an int, which of the following statements is invalid?
+a.	x = 0;
+b.	x = -58932;
+*c.	x = 1,000;
+d.	x = 592;
+Variables of the boolean data type are useful for
+a.	working with small integers
+*b.	evaluating true/false conditions
+c.	working with very large integers
+d.	evaluating scientific notation
+Which Scanner class method reads an int?
+a.	readInt()	
+*b.	nextInt()	
+c.	getInt()
+d.	read_int()
+Which one of the following methods would you use to convert a string to a double? 
+a.	Byte.ParseByte	
+b.	Long.ParseLong	
+c.	Integer.ParseInt
+*d.	Double.ParseDouble
+Which one of the following is the not equal operator?
+a.	<>
+b.	NOT
+c.	*&
+*d.	!=
+A block of code is enclosed in a set of
+*a.	braces { }
+b.	parentheses ( )
+c.	double quotes " "
+d.	brackets [ ]
+These operators use two operands:
+a.	Unary
+*b.	Binary
+c.	Tertiary
+d.	None of the above
+In an if/else statement, if the boolean expression is false,
+a.	the first statement or block is executed
+*b.	the statement or block following the else is executed
+c.	all statements or blocks are executed
+d.	no statements or blocks are executed
+The switch statement is a:
+*a.	Multiple alternative decision structure
+b.	Nested decision structure
+c.	Sequence structure
+d.	Test expression
+What does the following code display?
+	double x = 12.3798146;
+	System.out.printf("%.2f\n", x);
+a.	123798146
+b.	1238
+c.	%12.38
+*d.	12.38
